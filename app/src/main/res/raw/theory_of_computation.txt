@@ -1,0 +1,144 @@
+Theory Of Computation 1,Introduction to TOC and DFA
+eqCkkC9A0Q4
+Theory Of Computation 2, Construction of minimal DFA and problems
+Fp4x2JKlsG0
+Theory Of Computation 3 , Construction of DFA and cross product of DFA
+_yBei5Ax4fk
+Theory Of Computation 4, DFA and problem
+Y8c_3LzmF-g
+Theory Of Computation 5,DFA construction
+ubpCB5XwIeM
+Theory Of Computation 6, DFA construction of binary no which is divisible by 2 and number system
+8FUXyjuvry8
+Theory Of Computation 7,DFA of binary no which is divisible by 3
+4yB7ECgZJmw
+Theory Of Computation 8,DFA of binary no divisible by 4
+UdhgFvVMPpE
+Theory Of Computation 9,DFA of strings which starts with 'a'
+O5-ZmPtqHy0
+Theory Of Computation 10,DFA of strings which contains 'a'
+IGXOv29prBk
+Theory Of Computation 11,DFA of strings which ends with 'a'
+Nd9Ud8SbuoU
+Theory Of Computation 12,Comparison between different DFAs
+g95PXsMUPeg
+Theory Of Computation 13,DFA of strings which starts with 'ab'
+NZ8LxMGSvJM
+Theory Of Computation 14, DFA of strings containing 'ab' as substring
+ZQvVOt-6tSU
+Theory Of Computation 15, DFA of strings which ends with 'ab'
+Gc6l4sJ_vrk
+Theory Of Computation 16,DFA problem and concatenation of DFA
+yzb4J7oSyLA
+Theory Of Computation 17,DFA which accepts string staring and ending with different sysmbol
+1GV_cjlTOHc
+Theory Of Computation 18,DFA which accepts string starting and ending with same symbol
+N__68wjgnss
+Theory Of Computation 19,Complementation of DFA
+slH1pPhWUic
+Theory Of Computation 20,DFA which accepts strings in which every 'a' is followed by 'b'
+RA1ShyiE4gE
+Theory Of Computation 21,DFA which accepts strings in which every 'a' is never be followed by 'b'
+Ke1EnzNh1iw
+Theory Of Computation 22,DFA which accepts strings in which every 'a' is followed by 'bb'
+lPwS8mN6r4s
+Theory Of Computation 23,DFA which accepts strings in which every 'a' is never be followed by 'bb'
+tyRrDfpcfGY
+Theory Of Computation 24,DFA which accepts strings= { a^nb^m | n,m greater than or equal to 1}
+1dfvzcCcBJI
+Theory Of Computation 25,DFA which accepts strings={ a^nb^m | n,m greater than or equal to  0}
+i1u5DMuF9KM
+Theory Of Computation 26,DFA which accepts strings={ a^nb^m c^l| n,m,l  greater than or equal to1}
+XANzm22JAO8
+Theory Of Computation 27,DFA which accepts strings={ a^nb^mc^l/n,m,l greater than equal to 0}
+me0rzlcbs4w
+Theory Of Computation 28,DFA which accepts strings=a^nb^mc^l/n,m,l greater than equal to 0}
+kiv-h4ffbl0
+Theory Of Computation 29,DFA which accepts strings such that 2nd  symbol from LHS is 'a'
+CHp9B7CbhnQ
+Theory Of Computation 30,DFA which accepts strings of form  a^3bwa^3 , where 'w' is any string
+_2AAc4Muy-0
+Theory Of Computation 31, DFA Union,Concatenation, Cross product, Complementaion,Reversal
+3EaFxgel8eg
+Theory Of Computation 32, Problems of DFA
+Uwlcuv7X7_k
+Theory Of Computation 33,Introduction to NFA
+oHmukGJu1DA
+Theory Of Computation 34,Examples of NFA
+ZjjAbFxjxLQ
+Theory Of Computation 35,Conversion of NFA to DFA
+SFfJB6VfiBc
+Theory Of Computation 36,Conversion of NFA to DFA
+ZUMYU6sVqqI
+Theory Of Computation 37,convertion of  NFA to DFA
+57JlxQArBXk
+Theory Of Computation 38, convertion of NFA to DFA
+FqV92SA8a0Y
+Theory Of Computation 39,Examples to construct NFA
+g2JxFhhf850
+Theory Of Computation 40,Complementation of NFA
+hL6vY93TZYs
+Theory Of Computation 41,Minimization of DFA
+1GZOzTJOBuM
+Theory Of Computation 42,Minimization of DFA
+VJe8eaKB-VU
+Theory Of Computation 43,Minimization of DFA
+KiNudITGBQk
+Theory Of Computation 44,Minimization of DFA
+Yw79yaNAkq0
+Theory Of Computation 45,Minimization of DFA
+nWP7d6W_6ao
+Theory Of Computation 46,Moore Machine and Mealy machine
+_Xb-zyWbmSM
+Theory Of Computation 47,Examples of Moore machine
+s9lLLh6jHsY
+Theory Of Computation 48,Examples of Moore machine
+d6O6I5JXH18
+Theory Of Computation 49,Examples of Moore machine
+qjL60MZmN1Y
+Theory Of Computation 50,Examples of Moore machine
+FeOySnM-JW4
+Theory Of Computation 51,Examples of Mealy machine
+vkSrW3AQ1PU
+Theory Of Computation 52,Examples of Mealy machine
+xkPHsw-rjFo
+Theory Of Computation 53,Conversion of Moore machine to Mealy machine
+Hl5jNAXcW18
+Theory Of Computation 54,Conversion of Moore machine to Mealy machine
+RBDE-vO7Ux0
+Theory Of Computation 55,Conversion of Mealy machine to Moore machine
+vcNRb2cj1GI
+Theory Of Computation 56,Conversion of Mealy machine to Moore machine
+Zow-loq3jA8
+Theory Of Computation 57, Epsilon NFA and conversion of epsilon NFA to NFA
+WzmrmitqbPc
+Theory Of Computation 58,Conversion of epsilon NFA to NFA
+FYk8EpDR3XM
+Theory Of Computation 59,families of languages
+8RDq_7d5zcw
+Theory Of Computation 60
+b_6JR1xtxNw
+Theory Of Computation 61 -- Examples of Regular expressions
+P-18JzOC7rk
+Theory Of Computation 62 -- Examples of Regular expressions and identities of RE
+2N3fgQ4KJQM
+Theory Of Computation Lecture 63--Conversion of Finite automata to Regular Expression and vice versa
+dBwx2PVicTY
+Theory Of Computation lecture 64 -- Testing whether a language is regular or not
+KSczX111n3U
+Theory Of Computation lecture 65
+aHnB4Y1Cahg
+Theory Of Computation lecture 66
+8a2jBm5Syjs
+Theory Of Computation lecture 67
+uXaWLM6Oc44
+Theory Of Computation lecture 68
+F7x-uSuYgC4
+Theory Of Computation lecture 69
+-2E2QPeJvN4
+Theory Of Computation lecture 70
+m8a3l5t8ok8
+Theory Of Computation lecture 71
+a8Ck0saq864
+About the lectures
+T6ckTqH1zyo

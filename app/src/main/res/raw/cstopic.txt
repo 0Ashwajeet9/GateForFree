@@ -1,0 +1,133 @@
+1.
+Compiler Design – Made Easy Handwritten Notes | GATE/IES [PDF]
+2.
+Computer Network – Made Easy Handwritten Notes | GATE/IES [PDF]
+3.
+Computer Organization – Made Easy Handwritten Notes | GATE/IES [PDF]
+4.
+Data Structure – Made Easy Handwritten Notes | GATE/IES [PDF]
+5.
+DBMS – Made Easy Handwritten Notes | GATE/IES [PDF]
+6.
+Design Analysis and Algorithm       – Made Easy Handwritten Notes | GATE/IES [PDF]
+7.
+Digital Logic – Made Easy Handwritten Notes | GATE/IES [PDF]
+8.
+Operating System – Made Easy Handwritten Notes | GATE/IES [PDF]
+9.
+Theory of Computation – Made Easy Handwritten Notes | GATE/IES [PDF]
+1
+2020 Paper
+1
+2020 Keys
+2
+2019 Paper
+2
+2019 Keys
+3
+2018 Paper
+3
+2018 Keys
+4
+2017 Set 1 Paper
+4
+2017 Set 1 Keys
+5
+2017 Set 2 Paper
+5
+2017 Set 2 Keys
+6
+2016 Set 1 Paper
+6
+2016 Set 1 Keys
+7
+2016 Set 2 Paper
+7
+2016 Set 2 Keys
+8
+2015 Set 1 Paper
+8
+2015 Set 1 Keys
+9
+2015 Set 2 Paper
+9
+2015 Set 2 Keys
+10
+2015 Set 3 Paper
+10
+2015 Set 3 Keys
+11
+2014 Set 1 Paper
+11
+2014 Set 1 Keys
+12
+2014 Set 2 Paper
+12
+2014 Set 2 Keys
+13
+2014 Set 3 Paper
+13
+2014 Set 3 Keys
+14
+2013 Paper
+14
+2013 Keys
+15
+2012 Paper
+15
+2012 Keys
+16
+2011 Paper
+16
+2011 Keys
+17
+2010 Paper
+18
+2009 Paper
+19
+2008 CS Paper
+20
+2008 IT Paper
+21
+2007 CS Paper
+22
+2007 IT Paper
+23
+2006 CS Paper
+24
+2006 IT Paper
+25
+2005 CS Paper
+26
+2005 IT Paper
+27
+2004 CS Paper
+28
+2004 IT Paper
+29
+2003 Paper
+30
+2002 Paper
+31
+2001 Paper
+32
+2000 Paper
+33
+1999 Paper
+34
+1998 Paper
+35
+1997 Paper
+36
+1996 Paper
+37
+1995 Paper
+38
+1994 Paper
+39
+1993 Paper
+40
+1992 Paper
+41
+1991 Paper
+

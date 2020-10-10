@@ -1,0 +1,206 @@
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+
+    android:clickable="true"
+    tools:context=".MainActivity">
+    <RelativeLayout
+        android:id="@+id/rlHeader"
+        android:layout_width="match_parent"
+        android:layout_height="150dp"
+        tools:ignore="MissingConstraints">
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+
+            android:src="@drawable/freelearning"/>
+    </RelativeLayout>
+    <RelativeLayout
+        app:layout_constraintTop_toBottomOf="@+id/rlHeader"
+        android:layout_width="220dp"
+        android:layout_height="480dp"
+        app:layout_constraintRight_toRightOf="parent"
+        android:background="@drawable/shape_right_pannel"
+        tools:ignore="MissingConstraints" >
+
+        <TextView
+            android:layout_width="100dp"
+            android:layout_height="25dp"
+            android:layout_marginLeft="120dp"
+            android:layout_marginTop="30dp"
+            android:textColor="@android:color/white"
+            android:text="Sign in"
+            android:textSize="20sp"
+            tools:ignore="MissingConstraints" />
+
+
+    </RelativeLayout>
+
+    <LinearLayout
+        android:id="@+id/log"
+        android:layout_width="350dp"
+        android:layout_height="350dp"
+        android:layout_marginTop="60dp"
+        android:background="@drawable/shape_login"
+        android:paddingTop="70dp"
+        android:paddingLeft="50dp"
+        android:paddingRight="50dp"
+        android:orientation="vertical"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@id/rlHeader"
+        tools:ignore="MissingConstraints">
+        <EditText
+            android:hint="Username"
+            android:id="@+id/editText3"
+
+            android:drawableLeft="@drawable/ic_account"
+            android:drawablePadding="10dp"
+            android:inputType="text"
+            android:layout_width="match_parent"
+            android:layout_height="60dp"/>
+        <EditText
+            android:hint="Email Id"
+            android:id="@+id/editText4"
+
+            android:drawableLeft="@drawable/ic_email_black_24dp"
+            android:drawablePadding="10dp"
+
+            android:inputType="textEmailAddress"
+            android:layout_width="match_parent"
+            android:layout_height="60dp"/>
+        <EditText
+            android:hint="Password"
+            android:id="@+id/editText5"
+
+            android:drawableLeft="@drawable/ic_lock_me"
+            android:drawablePadding="10dp"
+
+            android:inputType="textPassword"
+            android:layout_width="match_parent"
+            android:layout_height="60dp"/>
+
+    </LinearLayout>
+    <Button
+        android:id="@+id/button5"
+        android:layout_width="150dp"
+        android:layout_height="50dp"
+        android:background="@drawable/edit_button"
+        app:layout_constraintBottom_toBottomOf="@+id/log"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        android:text="Sign In"
+        android:textColor="@android:color/white"
+        android:textSize="20sp"
+        />
+
+
+   <!-- <LinearLayout
+        android:id="@+id/linearLayout"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+
+        app:layout_constraintBottom_toBottomOf="parent">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Don't have an account?" />
+
+        <Button
+            android:id="@+id/button"
+            android:layout_width="200dp"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="50dp"
+            android:text="Sign up"
+            android:background="@null"
+            android:textColor="#FF7CFC"
+            android:textSize="20sp"
+            android:textStyle="bold" />
+    </LinearLayout>
+
+
+    <Button
+         android:id="@+id/button"
+         android:layout_width="111dp"
+         android:layout_height="36dp"
+         android:background="@drawable/edit_button"
+         android:text="New_user"
+         android:textAppearance="@style/TextAppearance.AppCompat.Large"
+         android:textColor="@color/design_default_color_primary_dark"
+         app:layout_constraintBottom_toBottomOf="parent"
+         app:layout_constraintEnd_toEndOf="parent"
+         app:layout_constraintStart_toStartOf="parent"
+         app:layout_constraintTop_toTopOf="parent"
+         app:layout_constraintVertical_bias="0.89" />
+
+     <EditText
+         android:id="@+id/editText"
+         android:layout_width="343dp"
+         android:layout_height="56dp"
+         android:background="@drawable/edit_view"
+         android:drawableLeft="@drawable/bestuser1"
+         android:drawablePadding="10dp"
+
+         android:ems="10"
+         android:hint="Username"
+         android:inputType="textPersonName"
+         android:paddingLeft="10dp"
+         android:textAppearance="@style/TextAppearance.AppCompat.Large"
+         app:layout_constraintBottom_toBottomOf="parent"
+         app:layout_constraintEnd_toEndOf="parent"
+         app:layout_constraintStart_toStartOf="parent"
+         app:layout_constraintTop_toTopOf="parent"
+         app:layout_constraintVertical_bias="0.499" />
+
+     <EditText
+         android:id="@+id/editText2"
+         android:layout_width="341dp"
+         android:layout_height="52dp"
+         android:background="@drawable/edit_view"
+         android:drawableLeft="@drawable/bestlock"
+         android:drawablePadding="10dp"
+
+         android:ems="10"
+         android:hint="Password"
+         android:inputType="textPersonName"
+         android:paddingLeft="10dp"
+         android:textAppearance="@style/TextAppearance.AppCompat.Large"
+         app:layout_constraintBottom_toBottomOf="parent"
+         app:layout_constraintEnd_toEndOf="parent"
+         app:layout_constraintHorizontal_bias="0.514"
+         app:layout_constraintStart_toStartOf="parent"
+         app:layout_constraintTop_toTopOf="parent"
+         app:layout_constraintVertical_bias="0.631" />
+
+     <Button
+         android:id="@+id/button3"
+         android:layout_width="252dp"
+         android:layout_height="40dp"
+         android:background="@drawable/edit_button"
+         android:text="Log in"
+         android:textAppearance="@style/TextAppearance.AppCompat.Large"
+         android:textColor="@color/cardview_dark_background"
+         app:layout_constraintBottom_toBottomOf="parent"
+         app:layout_constraintEnd_toEndOf="parent"
+         app:layout_constraintHorizontal_bias="0.496"
+         app:layout_constraintStart_toStartOf="parent"
+         app:layout_constraintTop_toTopOf="parent"
+         app:layout_constraintVertical_bias="0.767" />
+
+     <ImageView
+          android:id="@+id/imageView"
+          android:layout_width="279dp"
+          android:layout_height="149dp"
+          android:background="#00912C2C"
+          app:layout_constraintBottom_toBottomOf="parent"
+          app:layout_constraintEnd_toEndOf="parent"
+          app:layout_constraintStart_toStartOf="parent"
+          app:layout_constraintTop_toTopOf="parent"
+          app:layout_constraintVertical_bias="0.067"
+          app:srcCompat="@drawable/ultimate1" />-->
+
+
+</androidx.constraintlayout.widget.ConstraintLayout>
